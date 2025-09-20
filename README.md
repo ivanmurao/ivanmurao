@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Software Development and IoT Innovation</h3>
 <img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif">
 
-- 🌱 I’m currently learning **ASP.NET MVC**
+- 🌱 I’m currently learning **Cloud Computing Fundamentals**
 
 - 👨‍💻 All of my projects are available at https://ivan-portfolio-9c30d.web.app/
 
